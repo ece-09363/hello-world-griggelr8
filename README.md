@@ -6,6 +6,6 @@
 1. Post a selfie
 ![alt text][selfie]
 
-[selfie]: IMG_20180129_125611.jpg
+[selfie]: IMG2141556388
 
-2. Tell me something interesting about yourself
+2. My name is Richard Griggel and I am a member of Phi Kappa Sigma.
